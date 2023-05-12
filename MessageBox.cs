@@ -22,7 +22,6 @@ namespace MessageBoxAsync
                 Thread.Sleep(1000);
             }
 
-
             for (int i = 0; i < 7; i++)
             {
                 string closeWindow = "Window was closed by user";
